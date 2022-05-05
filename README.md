@@ -2,6 +2,8 @@
 Tugas UTS Mobile Programming Android Studio CRUD Aplikasi Pencatat Pelanggaran Menggunakan SQlite.
 <br>
 Bahasa yang digunakan `java` dengan database `SQlite`
+<br>
+SDK: `API 30 Android 11.0(R)`
 
 # Fitur
 - Tambah data
