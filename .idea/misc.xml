@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Eri/Documents/Desktop/temp/bismillah/AplikasiPencatatPelanggaran/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1045" />
+        <entry key="..\:/Users/Eri/Documents/Desktop/temp/bismillah/AplikasiPencatatPelanggaran/app/src/main/res/drawable/border.xml" value="0.1465" />
+        <entry key="..\:/Users/Eri/Documents/Desktop/temp/bismillah/AplikasiPencatatPelanggaran/app/src/main/res/drawable/ic_empty.xml" value="0.1465" />
+        <entry key="..\:/Users/Eri/Documents/Desktop/temp/bismillah/AplikasiPencatatPelanggaran/app/src/main/res/drawable/ic_home.xml" value="0.1465" />
+        <entry key="..\:/Users/Eri/Documents/Desktop/temp/bismillah/AplikasiPencatatPelanggaran/app/src/main/res/drawable/ic_list.xml" value="0.1465" />
+        <entry key="..\:/Users/Eri/Documents/Desktop/temp/bismillah/AplikasiPencatatPelanggaran/app/src/main/res/drawable/ic_tambah.xml" value="0.1045" />
+        <entry key="..\:/Users/Eri/Documents/Desktop/temp/bismillah/AplikasiPencatatPelanggaran/app/src/main/res/drawable/style_spinner.xml" value="0.1465" />
+        <entry key="..\:/Users/Eri/Documents/Desktop/temp/bismillah/AplikasiPencatatPelanggaran/app/src/main/res/layout/activity_daftar_kelas.xml" value="0.16" />
+        <entry key="..\:/Users/Eri/Documents/Desktop/temp/bismillah/AplikasiPencatatPelanggaran/app/src/main/res/layout/activity_kelas.xml" value="0.22" />
+        <entry key="..\:/Users/Eri/Documents/Desktop/temp/bismillah/AplikasiPencatatPelanggaran/app/src/main/res/layout/activity_main.xml" value="0.14" />
+        <entry key="..\:/Users/Eri/Documents/Desktop/temp/bismillah/AplikasiPencatatPelanggaran/app/src/main/res/layout/activity_tambah.xml" value="0.12" />
+        <entry key="..\:/Users/Eri/Documents/Desktop/temp/bismillah/AplikasiPencatatPelanggaran/app/src/main/res/layout/activity_update.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Eri/Documents/Desktop/temp/bismillah/AplikasiPencatatPelanggaran/app/src/main/res/layout/fragment_add.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Eri/Documents/Desktop/temp/bismillah/AplikasiPencatatPelanggaran/app/src/main/res/layout/fragment_home.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Eri/Documents/Desktop/temp/bismillah/AplikasiPencatatPelanggaran/app/src/main/res/layout/fragment_list.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Eri/Documents/Desktop/temp/bismillah/AplikasiPencatatPelanggaran/app/src/main/res/layout/layout_utama.xml" value="0.18" />
+        <entry key="..\:/Users/Eri/Documents/Desktop/temp/bismillah/AplikasiPencatatPelanggaran/app/src/main/res/layout/my_row.xml" value="0.45740740740740743" />
+        <entry key="..\:/Users/Eri/Documents/Desktop/temp/bismillah/AplikasiPencatatPelanggaran/app/src/main/res/layout/popwindow.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Eri/Documents/Desktop/temp/bismillah/AplikasiPencatatPelanggaran/app/src/main/res/menu/menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Eri/Documents/Desktop/temp/bismillah/AplikasiPencatatPelanggaran/app/src/main/res/menu/menu_atas.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Eri/Documents/Desktop/temp/bismillah/AplikasiPencatatPelanggaran/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1045" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

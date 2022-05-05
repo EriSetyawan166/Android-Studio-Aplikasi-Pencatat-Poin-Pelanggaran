@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Aplikasi Pencatat Pelanggaran</string>
+    <string name="judul">Aplikasi\nPencatat Pelanggaran</string>
+    <string name="btnmasuk">Masuk</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="total">Total Poin Pelanggaran</string>
+    <string name="tambah">Tambah Pelanggaran</string>
+    <string name="nama">Nama</string>
+    <string name="kelas">Kelas</string>
+    <string name="poin">Poin</string>
+    <string name="jenis_pelanggaran">Jenis Pelanggaran</string>
+    <string name="btntambah">Tambah</string>
+    <string name="daftarKelas">Daftar Kelas</string>
+    <string name="kosong">Belum ada data!</string>
+    <string name="pelanggaranbaru">Tambah Pelanggaran Baru</string>
+    <string name="btndelete">Hapus</string>
+    <string name="hapussemua">Hapus Semua Data</string>
+    <string-array name="pelanggaran">
+        <item>Pilih Jenis Pelanggaran</item>
+        <item>Merokok</item>
+        <item>Bolos</item>
+        <item>Membuat Kekacauan</item>
+        <item>Merusak Fasilitas</item>
+        <item>Tawuran</item>
+    </string-array>
+    <string-array name="kelas">
+        <item>Pilih Kelas</item>
+        <item>X-1</item>
+        <item>X-2</item>
+        <item>X-3</item>
+        <item>XI-1</item>
+        <item>XI-2</item>
+        <item>XI-3</item>
+        <item>XII-1</item>
+        <item>XII-2</item>
+        <item>XII-3</item>
+    </string-array>
+</resources>
