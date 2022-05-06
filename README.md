@@ -45,7 +45,7 @@ SDK: `API 30 Android 11.0(R)`
 ## Contributors ✨
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/EriSetyawan166"><img src="https://avatars.githubusercontent.com/u/72864742?v=4" width="100px;" alt=""/><br /><sub><b>Muhammad Eri Setyawan</b></sub></a><br/><a href="" title="Code">💻</a> <a href="" title="Documentation">📖</td>
-    <td align="center"><a href=""><img src="https://github.com/github.png" width="100px;" alt=""/><br /><sub><b>Rafi Zufary Pramanta</b></sub></a><br/><a href="https://github.com/hoc081098/Movie-Ticket-Booking/issues?q=author%3Agunasekharravilla" title="Bug reports">🐛</a> <a href="#ideas-gunasekharravilla" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/EriSetyawan166"><img src="https://avatars.githubusercontent.com/u/72864742?v=4" width="100px;" alt=""/><br /><sub><b>Muhammad Eri Setyawan</b></sub></a><br/><a href="#" title="Code">💻</a> <a href="#" title="Documentation">📖</td>
+    <td align="center"><a href="#"><img src="https://github.com/github.png" width="100px;" alt=""/><br /><sub><b>Rafi Zufary Pramanta</b></sub></a><br/><a href="#" title="Bug reports">🐛</a> <a href="#" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
